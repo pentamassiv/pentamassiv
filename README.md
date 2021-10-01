@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pentamassiv
-- 👀 I’m interested in Rust and keyboards
+- 👀 I’m interested in Rust, the Pinephone and keyboards
 - 📫 You can send me a mail. It's my username @posteo.de
 
 <!---
